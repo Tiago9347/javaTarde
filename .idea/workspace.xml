@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59612457-376d-420f-8b94-dd337466b4d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12a/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12a/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3344lPu2EeLmtINJ5rjnvPRjEFc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Exemplos.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopInfinito.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ativ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dani.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Tarde/IdeaProjects/javaTarde/src/main/java/br/com/javaTarde/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.teste">
+    <configuration name="LoopInfinito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInfinito" />
+      <module name="javaTarde" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ativ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplos.ativ1" />
+      <module name="javaTarde" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplos.dani" />
+      <module name="javaTarde" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplos.gay" />
+      <module name="javaTarde" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplos.teste" />
+      <module name="javaTarde" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exemplos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.teste" />
+        <item itemvalue="Application.dani" />
+        <item itemvalue="Application.LoopInfinito" />
+        <item itemvalue="Application.gay" />
+        <item itemvalue="Application.ativ1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59612457-376d-420f-8b94-dd337466b4d7" name="Changes" comment="" />
+      <created>1758563160753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758563160753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/javaTarde/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/javaTarde/atividade1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
