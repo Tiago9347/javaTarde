@@ -4,36 +4,96 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59612457-376d-420f-8b94-dd337466b4d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12a/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12a/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12b/exercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_12c/exercicio9.java" afterDir="false" />
+    <list default="true" id="59612457-376d-420f-8b94-dd337466b4d7" name="Changes" comment="atividade">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/Helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/atv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/concatenar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aleatorio/JogoDoMilhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_01_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_02_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_03_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_04_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Execicio_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/ati_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/ati_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/atv_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exemplo/estruturarepetitiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exemplo/javafor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +110,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tiago9347&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tiago9347/javaTarde.git&quot;,
+    &quot;accountId&quot;: &quot;3f210b0c-661a-4ec8-a584-9bf1a685105a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/atv_16/exercicio4.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="3344lPu2EeLmtINJ5rjnvPRjEFc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,37 +139,63 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Exemplos.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_01_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_02_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_03_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicio_04_Java.executor&quot;: &quot;Run&quot;,
     &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JogoDoMilhao.executor&quot;: &quot;Run&quot;,
     &quot;Application.LoopInfinito.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ati_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ati_02.executor&quot;: &quot;Run&quot;,
     &quot;Application.ativ1.executor&quot;: &quot;Run&quot;,
     &quot;Application.atividade1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.attv01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.atv_15.a.ati_01.executor&quot;: &quot;Run&quot;,
     &quot;Application.dani.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicio9.executor&quot;: &quot;Run&quot;,
     &quot;Application.gay.executor&quot;: &quot;Run&quot;,
     &quot;Application.teste.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aluno_Tarde/IdeaProjects/javaTarde/src/main/java/atv_13_08&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aluno_Tarde/IdeaProjects/javaTarde/src/main/java/br/com/javaTarde/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.teste">
-    <configuration name="LoopInfinito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInfinito" />
-      <module name="javaTarde" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ativ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exemplos.ativ1" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_13_08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_14" />
+      <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_13_11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercicio_04_Java">
+    <configuration name="Exercicio_01_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ativ_17_while.Exercicio_01_Java" />
       <module name="javaTarde" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exemplos.*" />
+          <option name="PATTERN" value="ativ_17_while.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exemplos.dani" />
+    <configuration name="Exercicio_02_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ativ_17_while.Exercicio_02_Java" />
       <module name="javaTarde" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exemplos.*" />
+          <option name="PATTERN" value="ativ_17_while.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exemplos.gay" />
+    <configuration name="Exercicio_03_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ativ_17_while.Exercicio_03_Java" />
       <module name="javaTarde" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exemplos.*" />
+          <option name="PATTERN" value="ativ_17_while.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +229,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exemplos.teste" />
+    <configuration name="Exercicio_04_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ativ_17_while.Exercicio_04_Java" />
       <module name="javaTarde" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exemplos.*" />
+          <option name="PATTERN" value="ativ_17_while.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JogoDoMilhao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aleatorio.JogoDoMilhao" />
+      <module name="javaTarde" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aleatorio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.teste" />
-        <item itemvalue="Application.dani" />
-        <item itemvalue="Application.LoopInfinito" />
-        <item itemvalue="Application.gay" />
-        <item itemvalue="Application.ativ1" />
+        <item itemvalue="Application.Exercicio_04_Java" />
+        <item itemvalue="Application.Exercicio_02_Java" />
+        <item itemvalue="Application.Exercicio_03_Java" />
+        <item itemvalue="Application.Exercicio_01_Java" />
+        <item itemvalue="Application.JogoDoMilhao" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +274,20 @@
       <option name="presentableId" value="Default" />
       <updated>1758563160753</updated>
     </task>
+    <task id="LOCAL-00001" summary="atividade">
+      <option name="closed" value="true" />
+      <created>1759337897066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759337897066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atividade" />
+    <option name="LAST_COMMIT_MESSAGE" value="atividade" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -172,6 +301,20 @@
           <url>file://$PROJECT_DIR$/src/main/java/br/com/javaTarde/atividade1.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/atv_13_08/exercicio1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_04_Java.java</url>
+          <line>5</line>
+          <properties class="ativ_17_while.Exercicio_04_Java" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
