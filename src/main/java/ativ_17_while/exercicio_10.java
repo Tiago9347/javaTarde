@@ -1,6 +1,6 @@
-package atv_15;
+package ativ_17_while;
 
-public class atv_03 {
+public class exercicio_10 {
     public static void main(String[] args) {
 
     }

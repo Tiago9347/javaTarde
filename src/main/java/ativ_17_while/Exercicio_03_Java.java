@@ -10,7 +10,7 @@ public class Exercicio_03_Java {
         do {
             System.out.print("Informe o codigo RFIDA: ");
             c = sc.nextLine();
-        }while (c.length()!= 8); // O codigo tem que ter 8 caracteres
+        }while (c.length()!= 8);
 
         System.out.println("Codigo aceito");
     }

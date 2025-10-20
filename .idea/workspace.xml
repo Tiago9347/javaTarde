@@ -5,95 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59612457-376d-420f-8b94-dd337466b4d7" name="Changes" comment="atividade">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/Helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/atv1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/concatenar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/aleatorio/JogoDoMilhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_01_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_02_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_03_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_04_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_08/exercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_13_11/exercicio_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Execicio_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_14/Exercicio_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/ati_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/ati_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/atv_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atv_16/exercicio9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exemplo/estruturarepetitiva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exemplo/javafor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/exercicio_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atv_15/exercicio_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_03_Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_03_Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_04_Java.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv_15/ati_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv_15/ati_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atv_15/atv_03.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,11 +120,12 @@
       <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_13_08" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_15" />
       <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_14" />
       <recent name="C:\Users\Aluno_Tarde\IdeaProjects\javaTarde\src\main\java\atv_13_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercicio_04_Java">
+  <component name="RunManager" selected="Application.Exercicio_02_Java">
     <configuration name="Exercicio_01_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ativ_17_while.Exercicio_01_Java" />
       <module name="javaTarde" />
@@ -257,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio_04_Java" />
         <item itemvalue="Application.Exercicio_02_Java" />
+        <item itemvalue="Application.Exercicio_04_Java" />
         <item itemvalue="Application.Exercicio_03_Java" />
         <item itemvalue="Application.Exercicio_01_Java" />
         <item itemvalue="Application.JogoDoMilhao" />
@@ -282,7 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759337897066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="atividade">
+      <option name="closed" value="true" />
+      <created>1760978235994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760978235994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atividade">
+      <option name="closed" value="true" />
+      <created>1760978407330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760978407330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,15 +258,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/atv_13_08/exercicio1.java</url>
           <line>7</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ativ_17_while/Exercicio_04_Java.java</url>
-          <line>5</line>
-          <properties class="ativ_17_while.Exercicio_04_Java" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
